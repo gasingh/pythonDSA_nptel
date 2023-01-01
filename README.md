@@ -1,5 +1,5 @@
 # pythonDSA_nptel
-solutions to an 8 weeks course in data structures and algorithms using python.
+Solutions and exemplary problems coded while attending an 8 weeks course in data structures and algorithms using Python offered by Chennai Mathematical Institute, India.
 
 *[Programming, Data Structures And Algorithms Using Python](https://onlinecourses.nptel.ac.in/noc22_cs26/preview)* <br>
 By Prof. Madhavan Mukund   |   Chennai Mathematical Institute 
