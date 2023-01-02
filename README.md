@@ -1,5 +1,7 @@
-# pythonDSA_nptel
+# Programming, Data Structures And Algorithms Using Python
 Solutions and exemplary problems coded while attending an 8 weeks course in data structures and algorithms using Python offered by Chennai Mathematical Institute, India.
+
+--- 
 
 *[Programming, Data Structures And Algorithms Using Python](https://onlinecourses.nptel.ac.in/noc22_cs26/preview)* <br>
 By Prof. Madhavan Mukund   |   Chennai Mathematical Institute 
@@ -8,7 +10,7 @@ By Prof. Madhavan Mukund   |   Chennai Mathematical Institute
 Course Exam (Programming Test): March 19, 2022  (Duration of the session will be 2 hrs) <br>
 Course Exam (Theory Test): March 27, 2022 <br>*
 
-
+---
 
 ## Course layout
 ### Week 1
