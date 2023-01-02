@@ -8,7 +8,8 @@ By Prof. Madhavan Mukund   |   Chennai Mathematical Institute
 
 *Course Begin: January 24, 2022 <br>
 Course Exam (Programming Test): March 19, 2022  (Duration of the session will be 2 hrs) <br>
-Course Exam (Theory Test): March 27, 2022 <br>*
+Course Exam (Theory Test): March 27, 2022 <br>
+Course Results: April 20, 2022*  
 
 ---
 
